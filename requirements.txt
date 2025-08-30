@@ -1,3 +1,4 @@
 streamlit
 requests
 docker
+python-dotenv
